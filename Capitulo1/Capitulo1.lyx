@@ -1,0 +1,381 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass ../UTN-MasterTesis-LyX
+\begin_preamble
+\usepackage{multirow}
+\end_preamble
+\options a4paper,12pt,numbered, authoryear
+\use_default_options true
+\begin_modules
+natbibapa
+\end_modules
+\maintain_unincluded_children false
+\language spanish-mexico
+\language_package default
+\inputencoding default
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Introducción
+\end_layout
+
+\begin_layout Section
+Tema
+\end_layout
+
+\begin_layout Standard
+Isomorfismo de Procesos y su Impacto en la Implantación de una Plataforma
+ BPM para la Gestión Financiera en el Gobierno Autónomo Descentralizado
+ de la Provincia de Imbabura
+\end_layout
+
+\begin_layout Section
+Planteamiento del problema
+\end_layout
+
+\begin_layout Standard
+La globalización, en el contexto de las organizaciones a nivel mundial,
+ ha tenido sin duda un impacto en la emergencia de procesos y las estructuras
+ de la gobernabilidad 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "vargas_perspectivas_2008"
+
+\end_inset
+
+.
+ Esta premisa también es válida para las instituciones públicas en el Ecuador.
+ Diferentes modelos de gestión han sido adoptados por las instituciones
+ con el ánimo de entrar en el mundo globalizado y mejorar el servicio a
+ la ciudadanía.
+ Un claro ejemplo de esto es el Programa de Arrastre “Gestión De Procesos
+ en las entidades de la Administración Pública Central e Implementación
+ de Ventanilla Única Virtual” emprendido por la Secretaría Nacional de la
+ Administración Pública (SNAP) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "snap_gestion_2015"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+A medida que los procesos adquieren mayor complejidad por la naturaleza
+ misma de las instituciones y por las nuevas regulaciones establecidas en
+ la legislación ecuatoriana, los Modelos de Gestión de Procesos de Negocio
+ (Businness Process Management, BPM por sus siglas en inglés) se han convertido
+ en elemento crítico para mejorar los servicios institucionales, por ende,
+ las decisiones relacionadas con los sistemas de información requeridos
+ apoyar la gestión institucional van adquiriendo mayor complejidad.
+ 
+\end_layout
+
+\begin_layout Standard
+En la actualidad, los procesos del Gobierno Provincial de Imbabura resultan
+ inadecuados para la optimización de sus servicios; muchos de los procesos
+ caracterizados en esfuerzos anteriores no han alcanzado un nivel de implementac
+ión adecuado, lo que ha impedido evaluar su madurez y por tanto determinar
+ las necesidades reales de una plataforma BPM que apoye el seguimiento de
+ los procesos institucionales.
+ 
+\end_layout
+
+\begin_layout Standard
+Para el Gobierno Provincial de Imbabura, como institución de derecho público,
+ el paradigma de gestión por procesos se ha convertido en una de las necesidades
+ prioritarias para lograr un modelo de gestión que facilite gobernabilidad
+ corporativa y permita el cambio institucional que la modernidad exige;
+ es precisamente aquí donde se hace necesaria la profundización en el estudio
+ de las presiones que entidades externas ejercen en la definición, adopción
+ y ajuste de los procesos institucionales y su influencia en la implantación
+ sistemas BPM para la gestión de procesos (véase Figura 1 Anexo A).
+\end_layout
+
+\begin_layout Standard
+En los últimos años, las instituciones públicas a nivel nacional vienen
+ experimentando cambios sustanciales como respuesta a la gran influencia
+ de factores externos e internos: la globalización, los marcos de trabajo,
+ las metodologías, las mejores prácticas, las leyes, normas y reglamentos,
+ así como las condiciones de organismos de cooperación internacional son
+ temas de gran impacto en cómo las instituciones desarrollan sus procesos
+ y estructuras.
+ Estos factores son también puntos neurálgicos para el Gobierno Provincial
+ de Imbabura.
+ La Figura 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+figura
+\end_layout
+
+\end_inset
+
+ muestra los factores internos y externos que impactan en los procesos de
+ la institución.
+\end_layout
+
+\begin_layout Standard
+Las entidades reguladoras, mediante la legislación vigente, obligan el cumplimie
+nto de normas e indicadores aplicados a la gestión financiera institucional.
+ Proyectos con auspicio internacional, como el de Gestión Descentralizada
+ de la Planificación y Finanzas Públicas en los Gobiernos Autónomos Descentraliz
+ados de la Provincia de Imbabura (GDPLAF), los convenios de cooperación
+ con Gobiernos Autónomos Descentralizados (GAD), la adopción del marco metodológ
+ico y mejores prácticas de Gobierno por Resultados (GPR) establecen presiones
+ para que la institución revise sus procesos financieros y oriente sus acciones
+ al cumplimiento de los parámetros establecidos por cada factor.
+ 
+\end_layout
+
+\begin_layout Standard
+Una situación similar sucede en el ámbito interno.
+ La visión de la administración y su equipo de trabajo con sus respectivas
+ políticas de gestión, los esfuerzos realizados mediante consultorías para
+ levantamiento de procesos y la normativa que rige la gestión interna, ejercen
+ también presión para que los procesos y las estructuras internas se vayan
+ ajustando a sus requerimientos.
+ 
+\end_layout
+
+\begin_layout Standard
+Con todas estas presiones, se puede evidenciar una problemática institucional:
+ los ajustes y desajustes en los procesos sumados al afán de cumplir con
+ todos los requerimientos internos y externos, han resultado en procesos
+ inadecuados y por consiguiente en una desarticulación del proceso financiero
+ con las demás áreas del Gobierno Provincial de Imbabura, lo que trae consigo
+ efectos negativos en el manejo de información financiera, retrasos en la
+ entrega de información y dificultades para el nivel directivo en la toma
+ de decisiones.
+ 
+\end_layout
+
+\begin_layout Standard
+El manejo actual de la información financiera en la institución y su relación
+ con los procesos misionales ha ocasionado inconvenientes en la integración
+ de las áreas corporativas, razón por la cual resulta contradictorio ofrecer
+ servicios internos y externos de calidad si la institución tiene problemas
+ en sus procesos financieros y mantiene sistemas de información que no facilitan
+ el manejo eficiente y oportuno de los recursos económicos del GAD Provincial.
+ 
+\end_layout
+
+\begin_layout Standard
+De continuar con el modelo de procesos financieros actual y sin contar con
+ una plataforma BPM que apoye la mejora continua de dichos procesos, persistirán
+ los problemas en la toma de decisiones debido a la información financiera
+ no confiable y/o desactualizada, no se dispondrá de un marco de integración
+ para el cumplimiento de la normativa y la entrega de información a entes
+ reguladores y ciudadanía en general.
+\end_layout
+
+\begin_layout Standard
+Es de vital importancia realizar un estudio de las presiones ejercidas por
+ los factores mencionados y definir una solución tecnológica que permita
+ mejorar la gestión financiera en apoyo al cumplimiento de las competencias
+ de la institución.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename Figs/Factores Intenos Externos.svg
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Factores internos y externos que impactan en el modelo de procesos financieros
+ del GAD Imbabura
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Justificación
+\end_layout
+
+\begin_layout Standard
+La importancia de esta investigación se fundamenta en la realidad institucional
+ y en los factores externos e internos que inciden en el modelo de gestión
+ de procesos de la institución.
+ La tendencia actual de las instituciones públicas se orienta a la búsqueda
+ de la homogeneidad de las estructuras, los procesos y las actividades de
+ gestión.
+ 
+\end_layout
+
+\begin_layout Standard
+Analizar las presiones isomórficas en los procesos para la gestión financiera
+ permitirá encontrar soluciones concretas a los problemas de integración
+ y facilitará la oportuna entrega de información financiera a los entes
+ reguladores mejorando el cumplimiento de la normativa vigente.
+ 
+\end_layout
+
+\begin_layout Standard
+Con tales resultados se tendrá la posibilidad de implantar una herramienta
+ útil para la gestión del proceso financiero en apoyo a la misión de la
+ Dirección Financiera que se resume en el manejo eficiente y oportuno de
+ los recursos económicos del GAD Provincial de Imbabura.
+\end_layout
+
+\begin_layout Standard
+El estudio propuesto resultará útil también porque la toma de decisiones
+ se la realizará bajo los insumos de la plataforma resultante, la misma
+ que estará guiada por el isomorfismo de procesos y tendrá un efecto a mediano
+ plazo para la obtención de indicadores.
+\end_layout
+
+\begin_layout Standard
+El proyecto es de alto impacto debido al cambio radical en los procesos
+ de manejo de datos e información financiera en el Gobierno Provincial de
+ Imbabura y sus áreas, y la posibilidad de servir como marco de referencia
+ para otros GAD's del país.
+\end_layout
+
+\begin_layout Section
+Objetivos
+\end_layout
+
+\begin_layout Subsection
+Objetivo General
+\end_layout
+
+\begin_layout Standard
+Diseñar un modelo de procesos isomórficos para implantar una plataforma
+ BPM de gestión financiera en el Gobierno Provincial de Imbabura.
+\end_layout
+
+\begin_layout Subsection
+Objetivos Específicos 
+\end_layout
+
+\begin_layout Enumerate
+Analizar las presiones isomórficas internas y externas en el proceso de
+ gestión financiera de la institución.
+\end_layout
+
+\begin_layout Enumerate
+Diseñar un modelo de procesos que se ajuste a los requerimientos de los
+ factores internos y externos que inciden en la gestión financiera institucional.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Implantar una herramienta BPMS que permita la gestión del modelo propuesto
+\end_layout
+
+\begin_layout Enumerate
+Evaluar la aplicación del modelo BPM para la gestión financiera institucional
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Proponer la implantación de una arquitectura de datos que contribuya a la
+ adecuada gestión de los provesos financieros de la institución
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

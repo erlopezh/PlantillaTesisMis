@@ -1,0 +1,374 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass UTN-MasterTesis-LyX
+\options a4paper,titlepage,12pt, authoryear
+\use_default_options false
+\begin_modules
+natbibapa
+\end_modules
+\maintain_unincluded_children false
+\language spanish-mexico
+\language_package default
+\inputencoding default
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style apacite
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Resultados y discusión
+\end_layout
+
+\begin_layout Section
+Datos Informativos
+\end_layout
+
+\begin_layout Standard
+La investigación se desarrollará en el Gobierno Autónomo Descentralizado
+ Provincial de Imbabura, ubicado en la ciudad de Ibarra, provincia de Imbabura.
+\end_layout
+
+\begin_layout Standard
+Por su naturaleza jurídica, el Gobierno Provincial de Imbabura es una Institució
+n de derecho público descentralizada con autonomía política, administrativa
+ y financiera; integrada por las funciones de participación ciudadana; legislaci
+ón, fiscalización y ejecutiva.
+ 
+\end_layout
+
+\begin_layout Subsection
+Unidad Ejecutora
+\end_layout
+
+\begin_layout Subsection
+Beneficiarios
+\end_layout
+
+\begin_layout Subsection
+Ubicación
+\end_layout
+
+\begin_layout Subsection
+Equipo técnico responsable 
+\end_layout
+
+\begin_layout Section
+Antecedentes de la propuesta
+\end_layout
+
+\begin_layout Standard
+anásis situacional
+\end_layout
+
+\begin_layout Section
+Análisis de factibilidad 
+\end_layout
+
+\begin_layout Subsection
+Factibilidad técnica
+\end_layout
+
+\begin_layout Standard
+El proyecto reúne características, condiciones técnicas y operativas que
+ aseguran el cumplimiento de sus metas y objetivos.
+\end_layout
+
+\begin_layout Itemize
+La tecnología BPMS se encuentra en auge a nivel nacional y existen varias
+ alternativas 
+\begin_inset Quotes eld
+\end_inset
+
+open source
+\begin_inset Quotes erd
+\end_inset
+
+ de sistemas BPM que permitirían mejoras en los procesos de negocio
+\end_layout
+
+\begin_layout Itemize
+La Dirección Financiera de la institucíón, dentro de sus objetivos, ha determina
+do la necesidad de mejorar el proceso de gestión financiera, por tanto,
+ el proyecto es factible pues se pretente brindar una solución BPM que se
+ ajuste a los requerimientos institucionales.
+\end_layout
+
+\begin_layout Itemize
+Las condiciones operativas de la institución permiten tener acceso a la
+ información de los procesos, de manera que se pueda identificar claramente
+ las tareas involucradas en la gestión financiera.
+\end_layout
+
+\begin_layout Itemize
+La disponibilidad de tesis de maestrías y doctorados en las áreas de Administrac
+ión, Gerencia y Gestión permitirán el análisis, desde la perspectiva organizacio
+nal, analizar las presiones isomórficas que influyen en los procesos institucion
+ales.
+ 
+\end_layout
+
+\begin_layout Itemize
+La documentación del marco legal y regulatorio vigente permitirá obtener
+ información fundamental para la definición del modelo básico del proceso
+ financiero que se pretende automatizar.
+ 
+\end_layout
+
+\begin_layout Standard
+Por lo expuesto, al ser el propósito del proyecto el combinar los principios
+ antes expuestos en una solución integral para el Gobierno Provincial de
+ Imbabura, se considera que existe la base técnica necesaria para su ejecución.
+ 
+\end_layout
+
+\begin_layout Subsection
+Factibilidad organizacional
+\end_layout
+
+\begin_layout Subsection
+Factibilidad económica
+\end_layout
+
+\begin_layout Standard
+Los costos del proyecto serán financiados de la siguiente manera:
+\end_layout
+
+\begin_layout Standard
+El Gobierno Provincial de Imbabura, proveerá la infraestructura tecnológica
+ como servidores, servicio de internet, área de desarrollo y capacitación
+ para el personal involucrado con respecto a las herramientas tecnológicas
+ a implementar.
+\end_layout
+
+\begin_layout Standard
+Los investigadores aportaran al proyecto con computadoras personales y cualquier
+ materia prima requerida para la documentación de los procesos del área.
+ 
+\end_layout
+
+\begin_layout Standard
+Con respecto a la tecnología a utilizarse para este caso se analizarán alternati
+vas Open Source y desarrollo de software 
+\begin_inset Quotes eld
+\end_inset
+
+insource
+\begin_inset Quotes erd
+\end_inset
+
+, siguiendo los lineamientos de la Dirección General de Tencnologías de
+ la Información, por lo que éste rubro no representa costos de adquisición.
+\end_layout
+
+\begin_layout Standard
+Cabe resaltar que el sistema de información financiera está contemplado
+ en la Planificación Estratégica de TI, por lo que el proyecto tiene sustento
+ económico en su fase de implantación de las herramientas tecnológicas.
+\end_layout
+
+\begin_layout Subsection
+Factibilidad operativa
+\end_layout
+
+\begin_layout Standard
+El levantamiento de información para la consecución de los objetivos planteados
+ será ejecutado por los investigadores mediante encuestas y entrevistas.
+ En las demás fases, se contará con el apoyo de dos funcionarios de la Dirección
+ General de Tecnologías de Información del Gobierno Provincial de Imbabura.
+ 
+\end_layout
+
+\begin_layout Standard
+El estudio propuesto es factible pues existe el interés del Prefecto de
+ Imbabura, del Director Financiero y del personal de los áreas de presupuesto
+ y contabilidad.
+\end_layout
+
+\begin_layout Section
+Estructura de descomposición del trabajo
+\end_layout
+
+\begin_layout Section
+Metodología
+\end_layout
+
+\begin_layout Standard
+El proyecto contempla la necesidad de incorporar los paradigmas de procesos
+ y de servicios al proceso de software dentro de un marco de desarrollo
+ iterativo e incremental.
+ Desde esta perspectiva, la estrategia técnica considera la incorporación
+ de los siguientes procesos metodológicos para el desarrollo del modelo
+ e implantación de la plataforma BPM:
+\end_layout
+
+\begin_layout Paragraph
+Organización y Plan de Proyecto
+\end_layout
+
+\begin_layout Standard
+Esta etapa cubre toda la vida del proyecto y, al igual que la última de
+ las etapas, tiene un comportamiento “envolvente” en el sentido de que está
+ siempre presente en cada una de las etapas sucesivas.
+\end_layout
+
+\begin_layout Standard
+El propósito es delinear el perfil de la solución y fijar objetivos y estrategia
+s que serán conservados a lo largo de todo el proyecto.
+\end_layout
+
+\begin_layout Paragraph
+Modelado del Negocio
+\end_layout
+
+\begin_layout Standard
+El modelado del negocio tiene como objetivo el comprender y describir de
+ forma simplificada la realidad del negocio.
+ Este enfoque tiende a reducir la brecha existente entre el área de tecnología
+ y el área del negocio procurando obtener la mejor parte de cada uno de
+ ellos, resultando un enfoque apropiado para la tarea de identificación
+ de requisitos.
+ 
+\end_layout
+
+\begin_layout Standard
+La aproximación debe permitir modelar una organización y especificar los
+ requisitos de la solución tecnológica a partir de los procesos de negocio
+ de la organización y las metas que debe satisfacer dicha solución.
+ La aproximación también debe posibilitar el alineamiento estratégico y
+ facilitar la comunicación entre los investigadores y los stakeholders.
+ Consiste en tener un conocimiento preciso de lo que actualmente se hace
+ en los procesos que serán considerados en el proyecto.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Modelado de Procesos
+\end_layout
+
+\begin_layout Standard
+A partir de las necesidades y requisitos identificados y especificados,
+ y los casos de negocio descritos en la etapa de modelado del negocio, se
+ procederá con la etapa de modelado de procesos de negocio, incluyendo la
+ especificación de todas las características asociadas a dichos procesos.
+\end_layout
+
+\begin_layout Paragraph
+Modelado de Servicios 
+\end_layout
+
+\begin_layout Standard
+La idea de un servicio es identificar un ámbito bien definido de funcionalidad
+ y hacerlo accesible de forma uniforme y completa, independientemente de
+ dónde se use.
+ Los servicios incorporan reglas de negocios, además de información y operacione
+s.
+\end_layout
+
+\begin_layout Standard
+Las tareas generales a cumplir en esta etapa son: identificar los servicios
+ de los procesos del negocio, clasificarlos.
+ y especificar dichos servicios.
+ Si fuese el caso, será necesario identificar servicios que ya estén implementad
+os en otras soluciones tecnológicas y que puedan o deban ser reutilizados
+ en el proyecto de desarrollo.
+\end_layout
+
+\begin_layout Paragraph
+Definición de componentes 
+\end_layout
+
+\begin_layout Standard
+En esta etapa de definición de componentes se trata de definir la manera
+ en que se componen y empaquetan funcionalidades, sean estas existentes
+ (en sistemas heredados o en paquetes de software adquiridos por la organización
+) o nuevas, para construir piezas funcionales que puedan registrarse en
+ un repositorio común.
+ El objetivo básico es definir los componentes que deberán ser implementados
+ para proveer los servicios especificados.
+\end_layout
+
+\begin_layout Paragraph
+Implementar componentes 
+\end_layout
+
+\begin_layout Standard
+En esta etapa de implementación de componentes es donde adquieren mayor
+ protagonismo las particularidades tecnológicas y se aprecian las ventajas
+ de cada herramienta.
+ El objetivo es el uso de estándares como herramientas para completar la
+ composición y realizar el despliegue de los componentes de servicios.
+\end_layout
+
+\begin_layout Paragraph
+Administración y seguimiento 
+\end_layout
+
+\begin_layout Standard
+El proceso cubre las actividades relacionadas con la capacidad de los incremento
+s del producto de adaptarse a los cambios, sean estos provocados por cambios
+ regulatorios o por mejoras que deseen aplicarse a los mismos.
+ 
+\end_layout
+
+\end_body
+\end_document

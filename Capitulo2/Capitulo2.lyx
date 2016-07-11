@@ -1,0 +1,877 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass ../UTN-MasterTesis-LyX
+\options a4paper,titlepage,12pt, authoryear
+\use_default_options false
+\begin_modules
+natbibapa
+\end_modules
+\maintain_unincluded_children false
+\language spanish-mexico
+\language_package default
+\inputencoding default
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style apacite
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Marco Teórico
+\end_layout
+
+\begin_layout Standard
+El presente capítulo muestra los antecedentes investigativos relacionados
+ con el isomorfismo institucional, la gestión por procesos de negocio (BPM)
+ y evidencia empírica de la incidencia del isomorfismo de procesos en los
+ modelos de gestión de las organizaciones.
+ 
+\end_layout
+
+\begin_layout Section
+Antecedentes investigativos
+\end_layout
+
+\begin_layout Standard
+Debemos mencionar que en los repositorios de los centros de educación superior
+ a nivel nacional no encontramos trabajos de tesis relacionados con el isomorfis
+mo de procesos, por lo que recurrimos a repositorios internacionales.
+\end_layout
+
+\begin_layout Standard
+En la Universidad Autónoma de Querétaro, la tesis elaborada por Raúl Linares,
+ cuyo tema es 
+\begin_inset Quotes eld
+\end_inset
+
+El proceso de la acreditación de la calidad institucional, como práctica
+ isomórfica y su relación con la cultura organizacional
+\begin_inset Quotes erd
+\end_inset
+
+, una de las conclusiones manifiesta que la influencia del entorno globalizado
+ y los factores de competencia y posicionamiento, así como las políticas
+ que regulan las organizaciones, han determinado la decisión de acreditar
+ su calidad, con el propósito de fortalecer su legitimidad en su campo,
+ es notable que a pesar de las diferencias que las caracteriza, existen
+ elementos que tienden a homogeneizar los procesos y resultados esperados
+ en el cumplimiento de sus propósitos.
+ Estos procesos isomórficos (coercitivos, normativos y miméticos) son elementos
+ que se encuentran presentes en el aseguramiento de su calidad.
+\begin_inset CommandInset citation
+LatexCommand citep
+key "linares_proceso_2014"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sobre las presiones isomórficas ejercidas para la adopción de sistemas ERP
+ (Enterprise Resorce Planning) en las empresas, la tesis doctoral elaborada
+ por 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "elangovan_institutional_2013"
+
+\end_inset
+
+, concluye en un modelo conceptual que representa la relación entre las
+ presiones isomórficas y la adopción de sistemas ERP.
+ La investigación analizó empresas de confección de prendas con el objetivo
+ de medir el estado de la adopción de sistemas ERP, su capacidad de absorción
+ y las presiones isomorfas institucionales dentro de su campo organizacional.
+\end_layout
+
+\begin_layout Standard
+Las instituciones públicas a nivel nacional han puesto especial interés
+ en el modelo de gestión por procesos como una orientación hacia la satisfacción
+ de las necesidades de los ciudadanos y demás actores sociales
+\begin_inset CommandInset citation
+LatexCommand citep
+key "snap_gestion_2015"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+En la tesis presentada por 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "bazan_implementacion_2015"
+
+\end_inset
+
+, se propone un modelo de implementación de procesos de negocio que incluye
+ aspectos sociales en la ejecución de los procesos.
+ Estos aspectos sociales contribuyen a la mejora continua del proceso.
+\end_layout
+
+\begin_layout Section
+Fundamentación Filosófica 
+\end_layout
+
+\begin_layout Standard
+El proyecto propuesto se enmarca dentro del paradigma crítico propositivo;
+ el propósito es generar transformaciones en las situaciones abordadas,
+ partiendo de su comprensión y análisis, dejando de lado la estructura tradicion
+al se cuestionarán los esquemas establecidos, pero no se detiene solo en
+ la contemplación pasiva, se genera una propuesta de solución para el problema
+ planteado.
+ 
+\end_layout
+
+\begin_layout Standard
+En la dinámica institucional, la gestión por procesos apoyada en componentes
+ tecnológicos, no está sujeta solamente a criterios estratégicos o de eficiencia
+ operacional, sino que también entran en las influencias o presiones de
+ naturaleza política, tanto de tipo interno como externo.
+\end_layout
+
+\begin_layout Standard
+La decisión de implantar un modelo de gestión financiera con fuerte base
+ tecnológica debe ser también resultado de un proceso político de búsqueda
+ de alineamiento estratégico entre los objetivos y procesos de las diferentes
+ áreas, hoy por hoy con dificultades de integración.
+ Es común que los departamentos que cuentan con mayor poder tendrán una
+ mayor capacidad de influencia para que la decisión final sobre el modelo
+ de gestión financiera se adecúe a los intereses institucionales.
+\end_layout
+
+\begin_layout Standard
+El isomorfismo institucional, pone énfasis en la influencia de factores
+ externos a la institución.
+ Cuando la organización tenga que decidir la forma de organizar su proceso
+ financiero tenderá a conformar esa decisión a las presiones ejercidas por
+ los órganos reguladores y a las decisiones adoptadas por las demás organizacion
+es del sector.
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+El isomorfismo institucional se presenta como una herramienta provechosa
+ para poder entender las políticas y ceremonias que dominan de forma importante
+ el día a día de las organizaciones modernas.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 15"
+key "garayar_procesos_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Evidentemente el esfuerzo de redefinir estructuras y procesos a partir del
+ potencial que ofrecen las Tecnologías de la Información puede ser un catalizado
+r de cambios, pero debe recordarse que el verdadero cambio se encuentra
+ en cómo se esas tecnologías se usan dentro de una planificación coherente
+ con los objetivos estratégicos de la institución
+\begin_inset CommandInset citation
+LatexCommand citet
+key "diaz_gestion_2008"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+Fundamentación Tecnológica 
+\end_layout
+
+\begin_layout Standard
+De acuerdo al análisis presentado por la Secretaría Nacional de la Administració
+n Pública en su reporte Gestión de Procesos en las Entidades de la Administració
+n Pública Central e Implementación de Ventanilla Única Virtual”, a nivel
+ nacional la implementación de una solución BPMS se ha convertido en una
+ prioridad de las entidades del sector público ya sea mediante la adquisición
+ o desarrollo de aplicaciones de manera individual o adoptando la solución
+ adquirida por la Presidencia de la República en el año 2010.
+ Además el reporte concluye que “tecnológicamente se hace imprescindible
+ la administración de procesos mediante una herramienta que cumpla con los
+ requerimientos cambiantes y tenga flexibilidad en su funcionamiento y programac
+ión...”.
+\end_layout
+
+\begin_layout Standard
+En el Gobierno Provincial de Imbabura durante los últimos años han surgido
+ iniciativas para estandarizar y normar la estructura y los procesos administrat
+ivos, mediante la realización de consultorías se ha establecido una estructura
+ operativa y se ha implantado una plataforma GPR.
+ Pero es necesario articular estas iniciativas mediante el establecimiento
+ de una solución tecnológica que nos permita integrar la estructura organizativa
+, la lógica de los procesos, el seguimiento y el análisis de los resultados.
+ 
+\end_layout
+
+\begin_layout Section
+Fundamentación Legal 
+\end_layout
+
+\begin_layout Standard
+Para la realización de la investigación de deberá tomar en cuenta una serie
+ de Leyes, reglamentos y normas que rigen las actividades de las entidades
+ públicas, además de por haber tomado al Gobierno Provincial de Imbabura
+ para aplicar la investigación la misma se deberá regirse por la normativa
+ aplicable a los Gobiernos Autónomos Descentralizados, para sintetizar lo
+ expuesto se presenta el siguiente análisis: 
+\end_layout
+
+\begin_layout Paragraph
+Código Orgánico de Organización Territorial, Autonomía y Descentralización
+ (COOTAD) 
+\end_layout
+
+\begin_layout Standard
+En la parte final del artículo 5 se determina “ La autonomía administrativa
+ consiste en el pleno ejercicio de la facultad de organización y de gestión
+ de sus talentos humanos y recursos materiales para el ejercicio de sus
+ competencias y cumplimiento de sus atribuciones, en forma directa o delegada,
+ conforme a lo previsto en la Constitución y la ley.” En el artículo 363
+ la norma establece que “Los gobiernos autónomos descentralizados realizarán
+ procesos para asegurar progresivamente a la comunidad la prestación de
+ servicios electrónicos acordes con el desarrollo de las tecnologías.
+ Los servicios electrónicos que podrán prestar los gobiernos autónomos descentra
+lizados son: información, correspondencia, consultas, trámites, transacciones,
+ gestión de servicios públicos,...
+ ”
+\end_layout
+
+\begin_layout Paragraph
+Normas de control interno 
+\end_layout
+
+\begin_layout Standard
+Al ser una normativa de cumplimiento obligatorio por los GAD, nos permite
+ definir elementos clave del establecimiento de la estructura organizacional
+ y sus procesos, por ejemplo mediante lo establecido en los siguientes artículos
+:
+\end_layout
+
+\begin_layout Standard
+“Art.
+ 200-04 Estructura organizativa La máxima autoridad debe crear una estructura
+ organizativa que atienda el cumplimiento de su misión y apoye efectivamente
+ el logro de los objetivos organizacionales, la realización de los procesos,
+ las labores y la aplicación de los controles pertinentes.” 
+\end_layout
+
+\begin_layout Quotation
+
+\series bold
+\shape italic
+“Art.
+ 401-02 Autorización y aprobación de transacciones y operaciones La máxima
+ autoridad, establecerá por escrito o por medio de sistemas electrónicos,
+ procedimientos de autorización que aseguren la ejecución de los procesos
+ y el control de las operaciones administrativas y financieras, a fin de
+ garantizar que sólo se efectúen operaciones y actos administrativos válidos.”
+ 
+\end_layout
+
+\begin_layout Paragraph
+Ley de Propiedad Intelectual 
+\end_layout
+
+\begin_layout Standard
+Al ser el medio que el Estado Ecuatoriano reconoce, regula y garantiza la
+ propiedad adquirida de obras protegidas entre las que se encuentran programas
+ de ordenador, podemos citar el Art.1 de esta normativa “El Estado reconoce,
+ regula y garantiza la propiedad intelectual adquirida de conformidad con
+ la ley, las Decisiones de la Comisión de la Comunidad Andina y los convenios
+ internacionales vigentes en el Ecuador….”
+\end_layout
+
+\begin_layout Paragraph
+Código Orgánico de Planificación y Finanzas Públicas 
+\end_layout
+
+\begin_layout Standard
+Concebido por la necesario regular los procesos, instrumentos e institucionalida
+d del Sistema Nacional Descentralizado de Planificación Participativa establecid
+o en el artículo 279 de la Constitución de la República.
+ El código establece en su Art.
+ 50 la obligatoriedad de realizar el seguimiento y evaluación de los planes
+ de Desarrollo y Ordenamiento Territorial de forma periódica con la finalidad
+ de monitorear el cumplimiento de metas y aplicar los correctivos necesarios.
+ 
+\end_layout
+
+\begin_layout Section
+Marco referencial
+\end_layout
+
+\begin_layout Standard
+Esta sección explora y analiza el marco teórico del isomorfismo de procesos
+ y la gestión de procesos de negocio.
+ El estudio inicia con la revisión de la literatura que aborda la discusión
+ sobre los modelos organizacionales y cómo estos modelos se tranfieren en
+ las organizaciones.
+ Esto permitirá explicar las características cambiantes que subyacen en
+ gran parte a la gestión dentro de las organizaciones.
+ Teoría relevante sobre los conceptos claves de la investigación será usada
+ para el desarrollo del modelo propuesto.
+ Las proposiciones que resultan del anáisis del marco teórico permiten establece
+r la hipótesis del trabajo.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename Figs/CategoríasFundamentales.svg
+	lyxscale 70
+	scale 55
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Categorías Fundamentales
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Modelos organizacionales
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+after "p. 3"
+key "montano_cambio_2010"
+
+\end_inset
+
+, realiza una aproximación al concepto de modelo organizacional como 
+\begin_inset Quotes eld
+\end_inset
+
+una representación general de las estructuras y los procesos formales básicos
+ asumidos para lograr los objetivos planteados por la organización
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Las estructuras organizacionales, al estar formadas por personas, presentan
+ una dinámica sometida a cambios provocados por diferentes factores:
+\end_layout
+
+\begin_layout Itemize
+La estrategia: Una organización que conoce su estado actual puede trazar
+ adecuadamente las estrategias para lograr su futuro deseado.
+\end_layout
+
+\begin_layout Itemize
+El tamaño: Una organizacion más grande implica mayor complejidad y mayor
+ burocracia, por tanto requiere una estructura organizativa más compleja
+ y con más especialización
+\end_layout
+
+\begin_layout Itemize
+La tecnología: La tecnología condiciona el comportamiento de las personas
+ y por ende a la estructura organizativa.
+ En la actualidad, todo tipo de organización implementa tecnologías para
+ la ejecución de sus procesos y actividades, con el fin de reducir tiempos
+ de producción, procesos administrativos y flujo de trabajo.
+ Si la tecnología influye en los procesos y las funciones, también influye
+ en la estructura organizacional
+\end_layout
+
+\begin_layout Itemize
+El entorno de la organización: Esste factor es de suma importancia sobre
+ todo en organizaciones del sector público que se presentan cada vez más
+ abiertas a la sociedad por un lado, y por otro sometidas a un marco legal
+ y regulatorio en constante cambio.
+ Es importante considerar el entorno interno y externo de la organización.
+\end_layout
+
+\begin_layout Standard
+Los procesos constituyen un nuevo paradigma que imprime cambios en las estructur
+as organizacionales tradicionales.
+ Según 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "gonzalez_identificacion_2005"
+
+\end_inset
+
+, un proceso organizacional o de negocio 
+\begin_inset Quotes eld
+\end_inset
+
+es un grupo de tareas relacionadas lógicamente que se llevan a cabo en una
+ determinada secuencia y manera y que emplean los recursos de la organización
+ para dar resultados en apoyo a sus objetivos
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+El modelo organizacional, por tanto, permite establecer las actividades
+ y tareas requeridas por una organización para obtener un producto o un
+ servicio, estableciendo de manera clara y precisa cómo la información fluirá
+ dentro de dicha organización 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "bravo_gestion_2009"
+
+\end_inset
+
+ y el esquema organizativo que define cómo estan repartidas u ordenadas
+ las áreas, unidades o departamentos de la organización involucrados en
+ la generación de dicho producto o servicio.
+\end_layout
+
+\begin_layout Subsection
+Transferencia de modelos organizacionales
+\end_layout
+
+\begin_layout Standard
+Según 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "zangaro_generalizacion_2013"
+
+\end_inset
+
+, a partir de la apertura de los mercados a organizaciones extranjeras,
+ en todo el mundo se inicia tambien la transferencia del Know How y de lo
+ modelos organizacionales hacia los países en vias de desarrollo.
+ Esta nueva estructuración de la dinámica organizacional tiene un alto impacto
+ en todo tipo de organizaciones.
+\end_layout
+
+\begin_layout Standard
+En el articulo 
+\begin_inset Quotes eld
+\end_inset
+
+Sobre la transferencia de modelos organizacionales
+\begin_inset Quotes erd
+\end_inset
+
+ desarrollado por 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "herrera_caballero_sobre_2014"
+
+\end_inset
+
+, el autor concluye que:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+En la transferencia de modelos organizacionales la pretensión primera es
+ la apropiación de tecnologías que doten de mayores ventajas competitivas
+ a las organizaciones, eleven los saberes técnicos de la organización para
+ un alto rendimiento y produzcan mejores resultados en el ámbito de la competiti
+vidad en el mercado globalizado
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Sin embargo, para 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "urquiza_transferencia_2011"
+
+\end_inset
+
+, la adopción de los modelos organizacionales transferidos por otras organizacio
+nes 
+\begin_inset Quotes eld
+\end_inset
+
+parece no resultar una opción satisfactoria al encontrar dificultades en
+ el proceso de reapropiación de los mismos
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Muchas organizaciones adoptan modelos organizacionales o herramientas de
+ otras con el ánimo de legitimarse ante ellas o para solucionar problemas
+ que en las organizaciones origen han sido solucionados de manera efectiva.
+ Esta realidad se replica en las instituciones públicas; los problemas en
+ la gestión pública determinan la necesidad de las inttituciones en adoptar
+ herramientas de sus similares, y las presiones del entorno institucional,
+ sobremanera de los entes reguladore, influyen en cambios dentro de los
+ procesos internos.
+\end_layout
+
+\begin_layout Subsection
+Isomorfismo
+\end_layout
+
+\begin_layout Standard
+Con respecto a la dinámica de las organizaciones, Dimmagio y Powell (1999)
+ expresan que el isomorfismo institucional se refiere al proceso a través
+ del cual las organizaciones se vuelven más homogéneas unas con respecto
+ a otras al enfrentar condiciones en un contexto aparentemente similar.
+\end_layout
+
+\begin_layout Standard
+En 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "linares_proceso_2014"
+
+\end_inset
+
+ se plantea que las organizaciones que tienen un mayor tiempo o tamaño han
+ establecido el ambiente en el que se desarrollan, las organizaciones más
+ pequeñas o jóvenes se han visto obligadas a seguir lo establecido por las
+ primeras, como consecuencia surge el isomorfismo estableciendo niveles
+ de semejanza entre instituciones de la misma rama.
+ 
+\end_layout
+
+\begin_layout Standard
+Los mecanismos por los cuales ocurre el cambio institucional isomorfo son
+ tres 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "lopez_posada_instituciones_2009"
+
+\end_inset
+
+ : la 
+\emph on
+coerción
+\emph default
+ que se presenta mediante presiones formales o informales por parte del
+ estado o de organizaciones dominantes en el contexto determinado 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "linares_proceso_2014"
+
+\end_inset
+
+; el 
+\emph on
+mimetismo
+\emph default
+ mediante el cual, como respuesta a la incertidumbre, las organizaciones
+ adoptan modelos de gestión, uso de tecnologías o innovaciones de otras
+ organizaciones más exitosas 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "forni_desarrollo_2006"
+
+\end_inset
+
+; y la 
+\emph on
+normalización
+\emph default
+ asociada con las profesiones y la profesionalización de los miembros de
+ una organización responsables de la toma de decisiones 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "garayar_procesos_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+after "p. 291"
+key "contreras_calidad_2010"
+
+\end_inset
+
+, sobre la importancia del isomorfismo en el sector público manifiesta lo
+ siguiente: 
+\begin_inset Quotes eld
+\end_inset
+
+La aplicación de las técnicas de calidad podría permitir elevar los niveles
+ de satisfacción en la prestación de servicios públicos, por ello tienen
+ lugar los procesos isomórficos que fomentan la adopción de prácticas del
+ sector privado.
+ El ímpetu más poderoso del isomorfismo en el sector público es la necesidad
+ de legitimidad (Kaboolian, 2000); por lo cual se adoptan prácticas como
+ las técnicas de calidad a pesar de la ambigüedad en muchas de sus metas
+ y se transforman en prácticas institucionales.
+ Asimismo, las organizaciones públicas han entrado en contacto con grupos
+ de profesionales, asociaciones o consultorías que les han permitido introducir
+ estos modelos de gestión bajo un carácter mimético y normativo.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsection
+Gestión de Procesos de Negocio (BPM)
+\end_layout
+
+\begin_layout Standard
+Como se describe en
+\begin_inset CommandInset citation
+LatexCommand citet
+key "perez_gestion_2010"
+
+\end_inset
+
+, la gestión por procesos no es un modelo ni una norma de referencia sino
+ un cuerpo de conocimientos con principios y herramientas específicas que
+ permiten una forma avanzada de gestionar la Institución.
+ 
+\end_layout
+
+\begin_layout Standard
+La gestión por procesos es de las prácticas más avanzadas de gestión empresarial
+ pues permite fortalecer la capacidad para lograr resultados superando las
+ barreras de una estructura organizacional de tipo funcional.
+ Debe vincularse con los fines institucionales y orientarse a servir al
+ ciudadano, debe buscar la eficacia global (institución ) y no solo la eficienci
+a local (departamento).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Business Process Management (BPM)
+\end_layout
+
+\begin_layout Standard
+Citamos lo que el Cub BPM manifiesta sobre la importancia de gestión por
+ procesos de negocio para las empresas modernas:
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes eld
+\end_inset
+
+BPM, que va más allá del aspecto tecnológico, es un sistema de gestión enfocado
+ a perseguir la mejora continua del funcionamiento de las actividades empresaria
+les mediante la identificación y selección de procesos y la descripción,
+ documentación y mejora de los mismos, partiendo del despliegue de la estrategia
+ de la organización, asegurando la misión empresarial y alineada a la visión
+ de la empresa.
+ El BPM debe estar alineado con la estrategia, con la gestión de recursos
+ humanos, con la 
+\emph on
+gestión financiera
+\emph default
+, con la gestión de la información, con la gestión de la calidad y con las
+ disciplinas tradicionales de gestión.
+ La Gestión por Procesos es impulsada y hecha realidad por un conjunto de
+ tecnologías totalmente maduras que permiten alcanzar unos resultados excelentes.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+after "p. 6"
+key "club-bpm_libro_2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Business Process Management Systems (BPMS)
+\end_layout
+
+\begin_layout Standard
+La tecnología que posibilita la adopción de BPM se conoce en la actualidad
+ como Business Process Management System (BPMS).
+ BPMS puede ser definido como un conjunto de utilidades de software para
+ definir, implementar y mejorar procesos de negocio que cumplen con un grupo
+ de características técnicas necesarias para aplicar el concepto de BPM
+ .
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hitpass2012"
+
+\end_inset
+
+manifiesta que uno de los graves problemas con el que se encuentran las
+ organizaciones es la expectativa que un BPMS solucionará 
+\begin_inset Quotes eld
+\end_inset
+
+auto-mágicamente
+\begin_inset Quotes erd
+\end_inset
+
+ todos los problemas de los procesos.
+\end_layout
+
+\begin_layout Subsection
+Sistemas BMP
+\end_layout
+
+\begin_layout Subsection
+BPMS y Sistemas de Información Financiera
+\end_layout
+
+\begin_layout Section
+Hipótesis o Preguntas de Investigación
+\end_layout
+
+\begin_layout Standard
+El isomorfismo de procesos incidirá en el implantación de una plataforma
+ para la gestión del proceso financiero institucional.
+\end_layout
+
+\begin_layout Paragraph
+Preguntas directrices
+\end_layout
+
+\begin_layout Itemize
+¿De qué manera los factores externos e internos inciden en el proceso financiero
+ del Gobierno Provincial de Imbabura? 
+\end_layout
+
+\begin_layout Itemize
+¿Cómo influye el isomorfismo en la calidad del proceso financiero institucional?
+ 
+\end_layout
+
+\begin_layout Itemize
+¿Cómo se administra la información financiera en el Gobierno Provincial
+ de Imbabura? 
+\end_layout
+
+\begin_layout Itemize
+¿De qué manera los procesos isomórficos favorecen la implantación de una
+ plataforma BPM para la gestión financiera? 
+\end_layout
+
+\begin_layout Itemize
+¿Existe una herramienta que facilite la integración de procesos financieros
+ con los demás procesos corporativos?
+\end_layout
+
+\begin_layout Section
+Variables
+\end_layout
+
+\begin_layout Paragraph
+Variable independiente: Isomorfismo de procesos
+\end_layout
+
+\begin_layout Paragraph
+Variable dependiente: Plataforma BPM
+\end_layout
+
+\end_body
+\end_document
