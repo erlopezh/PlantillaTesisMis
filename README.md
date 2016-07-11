@@ -1,4 +1,4 @@
-niversidad Técnica del Note - Plantilla Tesis lista para LyX 2
+Universidad Técnica del Note - Plantilla Tesis lista para LyX 2
 
 Authors: Krishna Kumar 
 
